@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/BatwJ2n.png" group-title="General",Rede Globo (1080p)
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-id="RecordNews@SD" tvg-logo="https://i.imgur.com/4S4PIr3.png" group-title="General",Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews@SD" tvg-logo="https://i.imgur.com/4S4PIr3.png" group-title="News",Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 tvg-id="SBT@SD" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="General",SBT Interior (720p)
