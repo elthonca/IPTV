@@ -33,7 +33,7 @@ https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-id="660c29b5aec9680008f5b4a4" tvg-name="FIFA+" channel-id="660c29b5aec9680008f5b4a4-ca" group-title="Sports" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/6239d34aea7fdbf1543c5049d37485cd/FIFA_LOGO.png" , FIFA+ CAN
 https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
  
-#EXTINF:-1 tvg-chno="611" tvg-id="FIFA-Plus-USA@SD" tvg-name="FIFA+" channel-id="660c29b5aec9680008f5b4a4-us" group-title="Sports" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/6239d34aea7fdbf1543c5049d37485cd/FIFA_LOGO.png" , FIFA+ USA
+#EXTINF:-1 tvg-chno="611" tvg-id="FIFA-Plus-USA@SD" tvg-name="FIFA+" channel-id="FIFA+.us" group-title="Sports" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/6239d34aea7fdbf1543c5049d37485cd/FIFA_LOGO.png" , US - FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
  
 #EXTINF:-1 tvg-chno="612" tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" channel-id="5fd7b8bf927e090007685853-us" group-title="Music" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" , Vevo '80s
