@@ -110,6 +110,28 @@ https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 channel-id="6400f731d200410008f9b339-us" tvg-id="6400f731d200410008f9b339" tvg-chno="2980" tvg-name="Discovery Turbo TV" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png" group-title="United States",Discovery Turbo TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 
+#EXTINF:-1 tvg-id="KissKissTV.it@SD" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="Music",Kiss Kiss TV (1080p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg" group-title="Music",MTV Classic (720p)
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+
+#EXTINF:-1 tvg-id="NOWRock.uk@Poland" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock (1080p)
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock UK(1080p)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" http-referrer="https://retroplustv.com/" group-title="Music",Retro Plus 2 (720p)
+#EXTVLCOPT:http-referrer=https://retroplustv.com/
+
+#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.us" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Kids",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
 
