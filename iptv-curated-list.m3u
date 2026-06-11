@@ -8,7 +8,7 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="SBT@SD" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="General",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="554" tvg-name="ISTV" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="General", ISTV | BR
+#EXTINF:-1 tvg-id="554" tvg-name="ISTV" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="Entertainment", ISTV | BR
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="546" tvg-name="Top TV" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="Music", Top TV | BR
