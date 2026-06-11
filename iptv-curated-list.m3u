@@ -136,6 +136,8 @@ https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RakutenTV-UK_cartoon-classics" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/69d74b90-3e43-4279-bf59-06e1cde48fe8.jpeg" group-title="RakutenTV🇬🇧: Kids",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6085&ads_content_categories=IAB1&ads_content_genre=animation%2Cchildren&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_market=uk&ads_network_name=RakutenTV&ads_opt_out_flag=0&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6720&ads_rtv_content_language=en&ads_streaming_id=07c707d5-509d-418c-bc4e-3c5555afa5da&ads_tcs_channel_id=6085&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
 
