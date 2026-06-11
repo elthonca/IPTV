@@ -29,7 +29,7 @@ https://cesar-s-pack-leader-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b
 #EXTINF:-1 tvg-id="RETRO-CARTOON@SD" tvg-logo="https://i.imgur.com/XXXXX.png" group-title="General", RETRO CARTOON
 http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FIFA-Plus-USA@SD" tvg-logo="https://images.pluto.tv/channels/660bfc7b2433010008def3e3/colorLogoPNG_1750064634195.png" group-title="Sports",FIFA+ USA (720p)
+#EXTINF:-1 tvg-id="FIFA-Plus-USA@SD" tvg-logo="https://contentful-asset-proxy.sd.indazn.com/vhp9jnid12wf/3JUSJKaupT1HZfl5jzodmK/6239d34aea7fdbf1543c5049d37485cd/FIFA_LOGO.png" group-title="Sports",FIFA+ USA (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 channel-id="5fd7b8bf927e090007685853-us" tvg-id="5fd7b8bf927e090007685853" tvg-chno="4650" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="United States",Vevo '80s
