@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/BatwJ2n.png" group-title="General", Rede Globo BA
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/BatwJ2n.png" group-title="General", Globo SP
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/4S4PIr3.png" group-title="News", Record News
@@ -18,8 +18,8 @@ https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="ISTV" tvg-name="ISTV" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="Entertainment", ISTV | BR
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-name="REDE VIDA" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Religious", Rede Vida | BR
+#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-name="REDE VIDA" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Religious", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Religious", TV Aparecida | BR
+#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Religious", TV Aparecida HD
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
