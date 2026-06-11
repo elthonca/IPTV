@@ -6,7 +6,7 @@ https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/4S4PIr3.png" group-title="News", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 channel-id="6102e04e9ab1db0007a980a1-br" tvg-id="6102e04e9ab1db0007a980a1" tvg-chno="693" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Pluto TV Record News
+#EXTINF:-1 channel-id="6102e04e9ab1db0007a980a1-br" tvg-id="RecordNews" tvg-chno="693" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Pluto TV Record News
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 
 #EXTINF:-1 tvg-id="SBT@SD" tvg-name="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="General", SBT Interior
