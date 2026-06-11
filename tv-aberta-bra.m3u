@@ -21,5 +21,5 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-name="REDE VIDA" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Religious", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Religious", TV Aparecida
+#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida HD" tvg-name="TV APARECIDA HD" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Religious", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
