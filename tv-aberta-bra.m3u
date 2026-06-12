@@ -9,24 +9,22 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 channel-id="6102e04e9ab1db0007a980a1-br" tvg-id="RecordNews" tvg-chno="693" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Pluto TV Record News
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 
-#EXTINF:-1 tvg-id="SBT@SD" tvg-name="SBT" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="General", SBT
+#EXTINF:-1 tvg-chno="603" tvg-id="SBT@SD" tvg-name="SBT | interior de SP" channel-id="SBT | interior de SP" group-title="General" tvg-logo="https://i.imgur.com/it5aFKM.png" , SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="Brazil",SBT Cuiaba
+#EXTINF:-1 tvg-chno="604" tvg-id="SBT@SD" tvg-name="SBT Cuiaba" channel-id="SBT Cuiaba" group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png" , SBT
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" group-title="Brazil",SBT Nova Mutum
+
+#EXTINF:-1 tvg-chno="605" tvg-id="SBT@SD" tvg-name="SBT Nova Mutum" channel-id="SBT Nova Mutum" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" , SBT
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" group-title="Brazil",SBT Rondonopolis
+
+#EXTINF:-1 tvg-chno="606" tvg-id="SBT@SD" tvg-name="SBT Rondonopolis" channel-id="SBT Rondonopolis" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" , SBT
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" group-title="Brazil",SBT Sinop
+
+#EXTINF:-1 tvg-chno="607" tvg-id="SBT@SD" tvg-name="SBT Sinop" channel-id="SBT Sinop" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" , SBT
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GrcFXtI.png" group-title="CANAIS ABERTOS", SBT-HD
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | interior de SP 
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Cidade Verde | Piauí
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Guajará | Tailândia | PA
+
+#EXTINF:-1 tvg-chno="608" tvg-id="SBT@SD" tvg-name="SBT | TV Guajará | Tailândia | PA" channel-id="SBT | TV Guajará | Tailândia | PA" group-title="General" tvg-logo="https://i.imgur.com/srURmsi.png" , SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 
 #EXTINF:-1 channel-id="6317ba014d4d040007227f72-br" tvg-id="6317ba014d4d040007227f72" tvg-chno="08" tvg-name="Jovem Pan NEWS" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-title="Brazil",Jovem Pan NEWS
