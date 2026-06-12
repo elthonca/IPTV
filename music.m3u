@@ -18,7 +18,7 @@ https://v4.tustreaming.cl/latinostv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="138" tvg-id="MTVClassic.au" tvg-name="MTV Classic" channel-id="MTV Classic" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg" , MTV Classic
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 
-#EXTINF:-1 tvg-chno="140" tvg-id="NOWRock.uk@SD" tvg-name="NOWRock.uk" channel-id="NOWRock.uk" group-title="Music" tvg-logo="https://i.imgur.com/GuM4GnX.png" , NOW Rock UK
+#EXTINF:-1 tvg-chno="140" tvg-id="NOWRock.uk@SD" tvg-name="NOWRock.uk" channel-id="NOWRock.uk" group-title="Music" tvg-logo="https://i.imgur.com/GuM4GnX.png" , UK - NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-chno="141" tvg-id="RetroPlus2.cl@SD" tvg-name="Retro Plus 2" channel-id="Retro Plus 2" group-title="Music" tvg-logo="https://i.imgur.com/5G5kian.png" , Retro Plus 2
