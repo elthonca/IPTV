@@ -1,45 +1,53 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="GLOBOSP@SD" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/BatwJ2n.png" group-title="General", Globo SP
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
-#EXTINF:-1 tvg-id="GloboTV.hn@SD" tvg-logo="https://i.imgur.com/hxGvZ77.png" group-title="General",Globo TV (1080p) [Not 24/7]
-https://panel.dattalive.com/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="GloboTV.hu@SD" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="General",Globo TV (720p) [Geo-blocked]
-https://stream.streaming4u.hu/GloboTV/index.m3u8
-
-#EXTINF:-1 tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/4S4PIr3.png" group-title="News", Record News
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-
-#EXTINF:-1 channel-id="6102e04e9ab1db0007a980a1-br" tvg-id="RecordNews" tvg-chno="693" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brazil",Pluto TV Record News
-https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
-
-#EXTINF:-1 tvg-chno="603" tvg-id="SBT@SD" tvg-name="SBT | interior de SP" channel-id="SBT | interior de SP" group-title="General" tvg-logo="https://i.imgur.com/it5aFKM.png" , SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="604" tvg-id="SBT@SD" tvg-name="SBT Cuiaba" channel-id="SBT Cuiaba" group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png" , SBT
-https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="605" tvg-id="SBT@SD" tvg-name="SBT Nova Mutum" channel-id="SBT Nova Mutum" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" , SBT
-https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="606" tvg-id="SBT@SD" tvg-name="SBT Rondonopolis" channel-id="SBT Rondonopolis" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" , SBT
-https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="607" tvg-id="SBT@SD" tvg-name="SBT Sinop" channel-id="SBT Sinop" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" , SBT
-https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="608" tvg-id="SBT@SD" tvg-name="SBT | TV Guajará | Tailândia | PA" channel-id="SBT | TV Guajará | Tailândia | PA" group-title="General" tvg-logo="https://i.imgur.com/srURmsi.png" , SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-
-#EXTINF:-1 channel-id="6317ba014d4d040007227f72-br" tvg-id="6317ba014d4d040007227f72" tvg-chno="08" tvg-name="Jovem Pan NEWS" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" group-title="Brazil",Jovem Pan NEWS
-https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
-
-#EXTINF:-1 tvg-id="ISTV" tvg-name="ISTV" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="Entertainment", ISTV
+#EXTINF:-1 tvg-chno="603" tvg-id="RakutenTV-UK_cesar-s-pack-leader-tv" tvg-name="Cesar's Pack Leader TV" channel-id="Cesar's Pack Leader TV" group-title="Entertainment" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/62be82b9-f2c3-4f17-8ea1-9653ea2aad65.jpeg" , Cesar's Pack Leader TV
+https://cesar-s-pack-leader-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-reframedcontent-1/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.reframedcontent_channel_id=1&ads.rtv_channel_name=cesar-s-pack-leader-tv_uk&ads.rtv_content_id=1&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=7765807e-3e27-407b-8c24-61824a79c69d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=1&publishing_platform_id=5&tenant_identifier=reframedcontent
+ 
+#EXTINF:-1 tvg-chno="604" tvg-id="ISTV" tvg-name="ISTV" channel-id="ISTV" group-title="Entertainment" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" , ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-name="REDE VIDA" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Religious", Rede Vida
+ 
+#EXTINF:-1 tvg-chno="605" tvg-id="6400f731d200410008f9b339" tvg-name="Discovery Turbo TV" channel-id="DiscoveryTurboTV.pluto" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png" , PLUTO - Discovery Turbo TV
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+ 
+#EXTINF:-1 tvg-chno="606" tvg-id="636adc255bcf470007d6e0e2" tvg-name="Top Gear" channel-id="636adc255bcf470007d6e0e2-us" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" , PLUTO - Top Gear
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+ 
+#EXTINF:-1 tvg-chno="607" tvg-id="GloboSP@SD" tvg-name="Globo Bahia" channel-id="Globo Bahia" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo SP
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+ 
+#EXTINF:-1 tvg-chno="608" tvg-id="SBT@SD" tvg-name="SBT | interior de SP" channel-id="SBT | interior de SP" group-title="General" tvg-logo="https://i.imgur.com/it5aFKM.png" , SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="609" tvg-id="SBT@SD" tvg-name="SBT Cuiaba" channel-id="SBT Cuiaba" group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png" , SBT
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="610" tvg-id="SBT@SD" tvg-name="SBT Nova Mutum" channel-id="SBT Nova Mutum" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" , SBT
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="611" tvg-id="SBT@SD" tvg-name="SBT Rondonopolis" channel-id="SBT Rondonopolis" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" , SBT
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="612" tvg-id="SBT@SD" tvg-name="SBT Sinop" channel-id="SBT Sinop" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" , SBT
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="613" tvg-id="SBT@SD" tvg-name="SBT | TV Guajará | Tailândia | PA" channel-id="SBT | TV Guajará | Tailândia | PA" group-title="General" tvg-logo="https://i.imgur.com/srURmsi.png" , SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
+ 
+#EXTINF:-1 tvg-chno="639" tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" channel-id="62cbf063257170000724590c-ca" group-title="News" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" , Global News BC
+https://jmp2.uk/plu-62cbf063257170000724590c.m3u8
+ 
+#EXTINF:-1 tvg-chno="640" tvg-id="6317ba014d4d040007227f72" tvg-name="Jovem Pan NEWS" channel-id="6317ba014d4d040007227f72-br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" , Jovem Pan NEWS
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
+ 
+#EXTINF:-1 tvg-chno="641" tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" channel-id="RECORD NEWS" group-title="News" tvg-logo="https://i.imgur.com/4S4PIr3.png" , Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+ 
+#EXTINF:-1 tvg-chno="642" tvg-id="6102e04e9ab1db0007a980a1" tvg-name="Pluto TV Record News" channel-id="Pluto TV Record News" group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" , Record News
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+ 
+#EXTINF:-1 tvg-chno="643" tvg-id="571" tvg-name="Rede Vida" channel-id="Rede Vida" group-title="Religious" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" , Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="570" tvg-name="TV Aparecida" tvg-name="TV APARECIDA HD" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" group-title="Religious", TV Aparecida HD
+ 
+#EXTINF:-1 tvg-chno="644" tvg-id="570" tvg-name="TV Aparecida" channel-id="TV Aparecida" group-title="Religious" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" , TV Aparecida HD
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+ 
