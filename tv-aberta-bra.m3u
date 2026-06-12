@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-id="GLOBOSP@SD" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/BatwJ2n.png" group-title="General", Globo SP
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
+#EXTINF:-1 tvg-id="GloboTV.hn@SD" tvg-logo="https://i.imgur.com/hxGvZ77.png" group-title="General",Globo TV (1080p) [Not 24/7]
+https://panel.dattalive.com/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="GloboTV.hu@SD" tvg-logo="https://i.imgur.com/PJ4c4jq.png" group-title="General",Globo TV (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+
 #EXTINF:-1 tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/4S4PIr3.png" group-title="News", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
