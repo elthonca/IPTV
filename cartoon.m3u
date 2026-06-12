@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="600" tvg-id="6486e8984cfc2c0008b6844e" tvg-name="Beavis and Butt-Head" channel-id="6486e8984cfc2c0008b6844e-dk" group-title="Cartoon" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" , Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
+
+#EXTINF:-1 tvg-chno="601" tvg-id="PlutoTVRetroToons.us" tvg-name="Pluto TV Retro Toons" channel-id="Pluto TV Retro Toons" group-title="Cartoon" tvg-logo="https://i.imgur.com/YUQL0ki.png" , Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+
+#EXTINF:-1 tvg-chno="602" tvg-id="TomAndJerry.do@HD" tvg-name="Tom And Jerry" channel-id="Tom And Jerry" group-title="Cartoon" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" , Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
