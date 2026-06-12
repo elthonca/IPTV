@@ -18,7 +18,7 @@ https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="65c69b683ba51e00084534a3" tvg-name="Monster Jam US" channel-id="65c69b683ba51e00084534a3-us" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" , Monster Jam US
 https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
  
-#EXTINF:-1 tvg-chno="165" tvg-id="" tvg-name="NFL Channel" channel-id="" group-title="Sports" tvg-logo="http://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" , 435 NFL Channel
+#EXTINF:-1 tvg-chno="165" tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" channel-id="5ced7d5df64be98e07ed47b6-us" group-title="Sports" tvg-logo="http://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" , 435 NFL Channel
 https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1313&wurl_name=NFLChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
  
 #EXTINF:-1 tvg-chno="166" tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" channel-id="5ced7d5df64be98e07ed47b6-us" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" , US - NFL Channel
@@ -27,10 +27,10 @@ https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-id="c5e8a74546771de365652cd053f73351" tvg-name="Red Bull TV" channel-id="c5e8a74546771de365652cd053f73351" group-title="Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5e8a74546771de365652cd053f73351/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061731258_260x147_hud_rbtv_logo.png" , Red Bull TV
 https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
  
-#EXTINF:-1 tvg-chno="168" tvg-id="67a52cd4ec91870008a62164" tvg-name="UFC" channel-id="67a52cd4ec91870008a62164-mx" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png" , UFC
+#EXTINF:-1 tvg-chno="168" tvg-id="677d9adfa9a51b0008497fa0" tvg-name="UFC" channel-id="677d9adfa9a51b0008497fa0-us" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png" , UFC
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
  
-#EXTINF:-1 tvg-chno="169" tvg-id="677d9adfa9a51b0008497fa0" tvg-name="UFC" channel-id="677d9adfa9a51b0008497fa0-us" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" , UFC - UFC 01 HD
+#EXTINF:-1 tvg-chno="169" tvg-id="677d9adfa9a51b0008497fa0" tvg-name="UFC" channel-id="677d9adfa9a51b0008497fa0-us" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" , UFC
 https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
  
 
