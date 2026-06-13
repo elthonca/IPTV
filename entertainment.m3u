@@ -12,7 +12,7 @@ https://aenetworks.global.transmit.live/hls/68b7739a2bcf083f5d65622d/v1/aenetwor
 #EXTINF:-1 tvg-chno="107" tvg-id="6400f731d200410008f9b339" tvg-name="Discovery Turbo TV" channel-id="6400f731d200410008f9b339" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png" , Discovery Turbo TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
  
-#EXTINF:-1 tvg-chno="108" tvg-id="InkMaster.pluto" tvg-name="Ink Master" channel-id="60807fd5db701400078219c2" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/logo_1731834698797.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" , Ink Master
+#EXTINF:-1 tvg-chno="108" tvg-id="60807fd5db701400078219c2" tvg-name="Ink Master" channel-id="InkMaster.pluto" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/logo_1731834698797.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" , Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
  
 #EXTINF:-1 tvg-chno="109" tvg-id="ISTV" tvg-name="ISTV" channel-id="ISTV" group-title="Entertainment" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" , ISTV
