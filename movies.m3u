@@ -1,16 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="122" tvg-id="80sRewind.us@SD" tvg-name="80s Rewind" channel-id="" group-title="Movies" tvg-logo="https://i.imgur.com/nkEeYfI.png" , 80s Rewind
+#EXTINF:-1 tvg-chno="122" tvg-id="80sRewind.us@SD" tvg-name="80s Rewind" channel-id="80sRewind.pluto" group-title="Movies" tvg-logo="https://i.imgur.com/nkEeYfI.png" , 80s Rewind
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
  
-#EXTINF:-1 tvg-chno="123" tvg-id="90sThrowback.us@SD" tvg-name="90s Throwback" channel-id="" group-title="Movies" tvg-logo="https://i.imgur.com/KoGko6M.png" , 90s Throwback
+#EXTINF:-1 tvg-chno="123" tvg-id="90sThrowback.us@SD" tvg-name="90s Throwback" channel-id="90sThrowback.pluto" group-title="Movies" tvg-logo="https://i.imgur.com/KoGko6M.png" , 90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
  
-#EXTINF:-1 tvg-chno="124" tvg-id="5cb0cae7a461406ffe3f5213" tvg-name="Paramount Movie Channel" channel-id="5cb0cae7a461406ffe3f5213-us" group-title="Movies" tvg-logo="https://i.imgur.com/sj5h9bl.png" , PLUTO - Paramount Movie Channel
+#EXTINF:-1 tvg-chno="124" tvg-id="5cb0cae7a461406ffe3f5213" tvg-name="Paramount Movie Channel" channel-id="5cb0cae7a461406ffe3f5213-us" group-title="Movies" tvg-logo="https://i.imgur.com/sj5h9bl.png" , Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
  
-#EXTINF:-1 tvg-chno="126" tvg-id="5ff8c708653d080007361b14" tvg-name="Paramount+ Picks" channel-id="5ff8c708653d080007361b14-us" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" , PLUTO - Paramount+ Picks
+#EXTINF:-1 tvg-chno="125" tvg-id="5ff8c708653d080007361b14" tvg-name="Paramount+ Picks" channel-id="5ff8c708653d080007361b14-us" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" , Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
  
-#EXTINF:-1 tvg-chno="127" tvg-id="USBB3200030CG" tvg-name="Universal Movies" channel-id="USBB3200030CG" group-title="Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped" , 210 Universal Movies
+#EXTINF:-1 tvg-chno="126" tvg-id="USBB3200030CG" tvg-name="Universal Movies" channel-id="USBB3200030CG" group-title="Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped" , Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_channelId=99993051&ads.asnw=169843&ads.afid=158702674&ads.sfid=16520667&ads.csid=lgchannels_us_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99993051&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+ 
