@@ -1,29 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="113" tvg-id="GloboSP@SD" tvg-name="Globo Bahia" channel-id="Globo Bahia" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo SP
+#EXTINF:-1 tvg-chno="113" tvg-id="GloboSP@SD" tvg-name="Globo Bahia" channel-id="GloboSP.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo SP
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
  
-#EXTINF:-1 tvg-chno="114" tvg-id="SBT@SD" tvg-name="SBT | interior de SP" channel-id="SBT | interior de SP" group-title="General" tvg-logo="https://i.imgur.com/it5aFKM.png" , SBT
+#EXTINF:-1 tvg-chno="114" tvg-id="SBT@SD" tvg-name="SBT | interior de SP" channel-id="SBTSP.br" group-title="General" tvg-logo="https://i.imgur.com/it5aFKM.png" , SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="115" tvg-id="SBT@SD" tvg-name="SBT | TV Guajará | Tailândia | PA" channel-id="SBT | TV Guajará | Tailândia | PA" group-title="General" tvg-logo="https://i.imgur.com/srURmsi.png" , SBT
+#EXTINF:-1 tvg-chno="115" tvg-id="SBT@SD" tvg-name="SBT | TV Guajará | Tailândia | PA" channel-id="SBTSP.br" group-title="General" tvg-logo="https://i.imgur.com/srURmsi.png" , SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
  
-#EXTINF:-1 tvg-chno="116" tvg-id="SBT@SD" tvg-name="SBT Cuiaba" channel-id="SBT Cuiaba" group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png" , SBT
+#EXTINF:-1 tvg-chno="116" tvg-id="SBT@SD" tvg-name="SBT Cuiaba" channel-id="SBTSP.br" group-title="General" tvg-logo="https://i.imgur.com/EZJWQ3i.png" , SBT
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="117" tvg-id="SBT@SD" tvg-name="SBT Nova Mutum" channel-id="SBT Nova Mutum" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" , SBT
+#EXTINF:-1 tvg-chno="117" tvg-id="SBT@SD" tvg-name="SBT Nova Mutum" channel-id="SBTSP.br" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" , SBT
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="118" tvg-id="SBT@SD" tvg-name="SBT Rondonopolis" channel-id="SBT Rondonopolis" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" , SBT
+#EXTINF:-1 tvg-chno="118" tvg-id="SBT@SD" tvg-name="SBT Rondonopolis" channel-id="SBTSP.br" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" , SBT
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="119" tvg-id="SBT@SD" tvg-name="SBT Sinop" channel-id="SBT Sinop" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" , SBT
+#EXTINF:-1 tvg-chno="119" tvg-id="SBT@SD" tvg-name="SBT Sinop" channel-id="SBTSP.br" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" , SBT
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="120" tvg-id="571" tvg-name="Rede Vida" channel-id="Rede Vida" group-title="General; Religious" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" , Rede Vida
+#EXTINF:-1 tvg-chno="120" tvg-id="571" tvg-name="Rede Vida" channel-id="RedeVida.br" group-title="General; Religious" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" , Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
  
-#EXTINF:-1 tvg-chno="121" tvg-id="570" tvg-name="TV Aparecida" channel-id="TV Aparecida" group-title="General; Religious" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" , TV Aparecida HD
+#EXTINF:-1 tvg-chno="121" tvg-id="570" tvg-name="TV Aparecida" channel-id="TVAparecida.br" group-title="General; Religious" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" , TV Aparecida HD
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
  
+
