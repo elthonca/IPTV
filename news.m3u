@@ -1,15 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="149" tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" channel-id="62cbf063257170000724590c-ca" group-title="News" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" , Global News BC
+#EXTINF:-1 tvg-chno="146" tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" channel-id="62cbf063257170000724590c-ca" group-title="News" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" , Global News BC
 https://jmp2.uk/plu-62cbf063257170000724590c.m3u8
  
-#EXTINF:-1 tvg-chno="150" tvg-id="6317ba014d4d040007227f72" tvg-name="Jovem Pan NEWS" channel-id="6317ba014d4d040007227f72-br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" , Jovem Pan NEWS
+#EXTINF:-1 tvg-chno="147" tvg-id="6317ba014d4d040007227f72" tvg-name="Jovem Pan NEWS" channel-id="6317ba014d4d040007227f72-br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" , Jovem Pan NEWS
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
  
-#EXTINF:-1 tvg-chno="151" tvg-id="6102e04e9ab1db0007a980a1" tvg-name="Pluto TV Record News" channel-id="Pluto TV Record News" group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" , Record News
+#EXTINF:-1 tvg-chno="148" tvg-id="6102e04e9ab1db0007a980a1" tvg-name="Pluto TV Record News" channel-id="RecordNews.br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" , Record News
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
  
-#EXTINF:-1 tvg-chno="152" tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" channel-id="RECORD NEWS" group-title="News" tvg-logo="https://i.imgur.com/4S4PIr3.png" , Record News
+#EXTINF:-1 tvg-chno="149" tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" channel-id="RecordNews.br" group-title="News" tvg-logo="https://i.imgur.com/4S4PIr3.png" , Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
  
-
