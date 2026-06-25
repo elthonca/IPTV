@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="AMC" channel-id="" group-title="" tvg-logo="" , AMC
-http://170.254.18.106/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="AMC" channel-id="" group-title="" tvg-logo="" , CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="AMC" channel-id="" group-title="" tvg-logo="" , AMC
-http://170.254.18.106/AMC/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="AMC" channel-id="" group-title="" tvg-logo="" , CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 
