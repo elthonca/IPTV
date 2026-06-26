@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="CazeTV" channel-id="" group-title="" tvg-logo="" , BAND
+#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="BAND" channel-id="" group-title="" tvg-logo="" , BAND
 https://redecanaistv.golf/player3/ch.php?categoria=live&canal=band-sd
 
 #EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="CNN" channel-id="" group-title="" tvg-logo="" , CNN
