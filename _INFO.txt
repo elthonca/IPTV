@@ -4,6 +4,9 @@ https://github.com/CODERX24/tv/blob/master/ESPN2.m3u8
 Agent:
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.1 Safari/537.36
 
+- Pluto TV
+https://github.com/OwnerPlugins/pluto-tv-m3u/blob/main/pluto-live-CA.m3u
+
 https://github.com/OwnerPlugins/pluto-tv-m3u/raw/refs/heads/main/pluto-live-BR.m3u
 
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u
