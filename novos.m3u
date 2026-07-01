@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="BAND" channel-id="" group-title="" tvg-logo="" , BAND
-https://redecanaistv.golf/player3/ch.php?categoria=live&canal=band-sd
+#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="" channel-id="" group-title="" tvg-logo="" , CAZETV
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/4g7jp4flh5/out/v1/2fbb11cb471247ce8d33212a0d2ca3b6/cenc_audio_7_0_7591610.mp4?m=1767743374
 
 #EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="CNN" channel-id="" group-title="" tvg-logo="" , CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
