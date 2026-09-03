@@ -12,7 +12,7 @@ https://aenetworks.global.transmit.live/hls/68b7739a2bcf083f5d65622d/v1/aenetwor
 #EXTINF:-1 tvg-chno="107" tvg-id="6400f731d200410008f9b339" tvg-name="Discovery Turbo TV" channel-id="6400f731d200410008f9b339" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG_1767979567752.png" , Discovery Turbo TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
  
-#EXTINF:-1 tvg-chno="108" tvg-id="60807fd5db701400078219c2" tvg-name="Ink Master" channel-id="InkMaster.pluto" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/logo_1731834698797.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" , PLUTO - Ink Master
+#EXTINF:-1 tvg-chno="108" tvg-id="60807fd5db701400078219c2" tvg-name="Ink Master" channel-id="InkMaster.pluto" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/logo_1731834698797.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" , Ink Master
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
  
 #EXTINF:-1 tvg-chno="109" tvg-id="ISTV" tvg-name="ISTV" channel-id="ISTV" group-title="Entertainment" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" , ISTV
@@ -26,5 +26,17 @@ https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
  
 #EXTINF:-1 tvg-chno="112" tvg-id="USBB5200027Z5" tvg-name="Torque" channel-id="USBB5200027Z5" group-title="Entertainment" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1052-LG-Logo-PNG-100x100_v3.png" , Torque
 https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetworks_torque_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1052&wurl_name=Torque&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+ 
+#EXTINF:-1 tvg-chno="113" tvg-id="History.br@SD" tvg-name="" channel-id="HISTORY" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" , History (720p)
+http://45.177.114.114/HISTORY/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="114" tvg-id="History2LatinAmerica.us@Brazil" tvg-name="" channel-id="HISTORY 2" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" , History 2 Latin America Brazil (720p)
+http://45.177.114.114/HISTORY_2/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="115" tvg-id="MasterChef.us@Brazil" tvg-name="" channel-id="MasterChef.us@Brazil" group-title="Entertainment" tvg-logo="https://i.imgur.com/lOuySbz.png" , MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+ 
+#EXTINF:-1 tvg-chno="116" tvg-id="AELatinAmerica.us@Brazil" tvg-name="" channel-id="A&amp;E" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" , A&E Latin America Brazil (720p)
+http://45.190.28.50/AE_HD/index.m3u8
  
 
