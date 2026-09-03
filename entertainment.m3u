@@ -30,7 +30,7 @@ https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetwor
 #EXTINF:-1 tvg-chno="113" tvg-id="History.br@SD" tvg-name="" channel-id="HistoryChannel.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" , History (720p)
 http://45.177.114.114/HISTORY/index.m3u8
  
-#EXTINF:-1 tvg-chno="114" tvg-id="History2LatinAmerica.us@Brazil" tvg-name="" channel-id="History2.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" , History 2 Latin America Brazil (720p)
+#EXTINF:-1 tvg-chno="114" tvg-id="History2LatinAmerica.us@Brazil" tvg-name="" channel-id="History2.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" , BR - History 2
 http://45.177.114.114/HISTORY_2/index.m3u8
  
 #EXTINF:-1 tvg-chno="115" tvg-id="MasterChef.us@Brazil" tvg-name="" channel-id="MasterChef.us@Brazil" group-title="Entertainment" tvg-logo="https://i.imgur.com/lOuySbz.png" , MasterChef
