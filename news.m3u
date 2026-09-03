@@ -27,7 +27,4 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-id="FoxNewsChannel.us@SD" tvg-name="" channel-id="Fox News Channel (720p)" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" , Fox News Channel (720p)
 http://45.190.28.50/FOX_NEWS/index.m3u8
  
-#EXTINF:-1 tvg-chno="165" tvg-id="65c69ee3d77d450008c80438" tvg-name="F1 Channel" channel-id="F1Channel.us" group-title="Sports" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" , F1 Channel
-https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
- 
 
