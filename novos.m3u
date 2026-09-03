@@ -85,7 +85,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="Undefined",TV Cancao Nova (720p)
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD" group-title="Undefined",TV Globo Rio de Janeiro (720p)
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br@SD" channel-id="GloboRJ.br" group-title="Undefined",TV Globo Rio de Janeiro (720p)
 http://45.190.28.50/GLOBO_HD/index.m3u8
 
 
