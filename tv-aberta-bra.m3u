@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="117" tvg-id="Band.br@SD" tvg-name="Band.br@SD" channel-id="BandBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/1r5T6Pw.png" , Band (720p)
+#EXTINF:-1 tvg-chno="117" tvg-id="BandBrasil.br" tvg-name="BandBrasil.br" channel-id="BandBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/1r5T6Pw.png" , Band (720p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
  
 #EXTINF:-1 tvg-chno="118" tvg-id="GloboSP@SD" tvg-name="Globo Bahia" channel-id="GloboSP.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo SP
