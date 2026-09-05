@@ -21,7 +21,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993051/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-chno="129" tvg-id="AMC.us@EastHD" tvg-name="" channel-id="AMC.us@EastHD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" , AMC (720p)
 http://23.239.31.26:8989/amc/index.m3u8
  
-#EXTINF:-1 tvg-chno="13" tvg-id="AXN.br@SD" tvg-name="" channel-id="" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png", AXN (720p)
+#EXTINF:-1 tvg-chno="13" tvg-id="AXN.br@SD" tvg-name="AXN.br@SD" channel-id="AXN.br@SD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png", AXN (720p)
 http://45.190.28.50/AXN_HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="131" tvg-id="FX.us@East" tvg-name="" channel-id="FX (1080p)" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" , FX (1080p)
