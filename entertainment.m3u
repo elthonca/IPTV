@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="104" tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E Latin America Brazil (720p)" channel-id="AandE.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" , A&E Brazil
+#EXTINF:-1 tvg-chno="104" tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E Latin America Brazil (720p)" channel-id="AandE.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" , BR - A&E
 http://45.190.28.50/AE_HD/index.m3u8
  
 #EXTINF:-1 tvg-chno="105" tvg-id="US3500006VF" tvg-name="America's Got Talent" channel-id="US3500006VF" group-title="Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500006VF_20251125T030908SQUARE.png" , America's Got Talent
@@ -18,7 +18,7 @@ https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="History.br@SD" tvg-name="" channel-id="HistoryChannel.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" , BR - History Channel
 http://45.177.114.114/HISTORY/index.m3u8
  
-#EXTINF:-1 tvg-chno="110" tvg-id="History2LatinAmerica.us@Brazil" tvg-name="" channel-id="History2.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" , History 2
+#EXTINF:-1 tvg-chno="110" tvg-id="History2LatinAmerica.us@Brazil" tvg-name="" channel-id="History2.br" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" , BR - History 2
 http://45.177.114.114/HISTORY_2/index.m3u8
  
 #EXTINF:-1 tvg-chno="111" tvg-id="60807fd5db701400078219c2" tvg-name="Ink Master" channel-id="InkMaster.pluto" group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/logo_1731834698797.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" , Ink Master
