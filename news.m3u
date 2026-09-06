@@ -1,30 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="CBS" channel-id="CBSNews.us" group-title="News" tvg-logo="https://iptv-epg.org/images/6OFgwUd0ncrUp8J0xH__YDJZ-ZaLMU9NUZB7QvfQ7wev4gMw43IWW0eh3BvAZwIvzCugXN5WPg3j75EOhoAuocCgGPJ5SYwfVeb8k8o" , US - CBS News
-https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
- 
-#EXTINF:-1 tvg-chno="157" tvg-id="" tvg-name="CNN" channel-id="CNN.sxm" group-title="News" tvg-logo="" , CNN
+#EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="CNN" channel-id="CNN.sxm" group-title="News" tvg-logo="" , CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
  
-#EXTINF:-1 tvg-chno="158" tvg-id="" tvg-name="CNN" channel-id="CNN.sxm" group-title="News" tvg-logo="" , CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="FoxNewsChannel.us@SD" tvg-name="Fox News" channel-id="FoxNewsChannel.us@SD" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" , Fox News Channel (720p)
+http://45.190.28.50/FOX_NEWS/index.m3u8
  
-#EXTINF:-1 tvg-chno="159" tvg-id="" tvg-name="Fox News" channel-id="FoxNewsChannel.us" group-title="News" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" , US - FOX NEWS
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
- 
-#EXTINF:-1 tvg-chno="160" tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" channel-id="62cbf063257170000724590c-ca" group-title="News" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" , Global News BC
+#EXTINF:-1 tvg-chno="158" tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" channel-id="62cbf063257170000724590c-ca" group-title="News" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" , Global News BC
 https://jmp2.uk/plu-62cbf063257170000724590c.m3u8
  
-#EXTINF:-1 tvg-chno="161" tvg-id="6317ba014d4d040007227f72" tvg-name="Jovem Pan NEWS" channel-id="6317ba014d4d040007227f72-br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" , Jovem Pan NEWS
+#EXTINF:-1 tvg-chno="159" tvg-id="6317ba014d4d040007227f72" tvg-name="Jovem Pan NEWS" channel-id="6317ba014d4d040007227f72-br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png" , Jovem Pan NEWS
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
  
-#EXTINF:-1 tvg-chno="162" tvg-id="6102e04e9ab1db0007a980a1" tvg-name="Pluto TV Record News" channel-id="RecordNews.br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" , Record News
+#EXTINF:-1 tvg-chno="160" tvg-id="6102e04e9ab1db0007a980a1" tvg-name="Pluto TV Record News" channel-id="RecordNews.br" group-title="News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" , Record News
 https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
  
-#EXTINF:-1 tvg-chno="163" tvg-id="RecordNews@SD" tvg-name="RECORD NEWS" channel-id="RecordNews.br" group-title="News" tvg-logo="https://i.imgur.com/4S4PIr3.png" , Record News
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-chno="161" tvg-id="" tvg-name="CBS" channel-id="CBSNews.us" group-title="News" tvg-logo="https://iptv-epg.org/images/6OFgwUd0ncrUp8J0xH__YDJZ-ZaLMU9NUZB7QvfQ7wev4gMw43IWW0eh3BvAZwIvzCugXN5WPg3j75EOhoAuocCgGPJ5SYwfVeb8k8o" , US - CBS News
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
  
-#EXTINF:-1 tvg-chno="164" tvg-id="FoxNewsChannel.us@SD" tvg-name="" channel-id="Fox News Channel (720p)" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" , Fox News Channel (720p)
-http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-id="" tvg-name="Fox News" channel-id="FoxNewsChannel.us" group-title="News" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" , US - FOX NEWS
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
  
 
