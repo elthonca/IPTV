@@ -1,21 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="117" tvg-id="BandBrasil.br" tvg-name="Band" channel-id="BandBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/1r5T6Pw.png" , BR - Band
-http://45.190.28.50/BAND_HD/index.m3u8
-
-#EXTINF:-1 tvg-chno="118" tvg-id="GloboSP@SD" tvg-name="Globo Bahia" channel-id="GloboSP.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , BR - Globo
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="Band" tvg-name="Band" channel-id="General" group-title="BandBrasil.br" tvg-logo="BandBrasil.br" , 120
+https://i.imgur.com/1r5T6Pw.png
  
-#EXTINF:-1 tvg-chno="119" tvg-id="Record.br@SD" tvg-name="" channel-id="RecordTVBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png" , Record (720p)
-http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="TV Globo Rio de Janeiro" tvg-name="Globo" channel-id="General" group-title="TVGloboRiodeJaneiro.br@SD" tvg-logo="GloboRJ.br" , 121
+https://i.imgur.com/BatwJ2n.png
  
-#EXTINF:-1 tvg-chno="120" tvg-id="SBTNacional.br@SD" tvg-name="" channel-id="SBTBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/tc1ALuu.png" , BR = SBT Nacional
-http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="Record" channel-id="General" group-title="Record.br@SD" tvg-logo="RecordTVBrasil.br" , 122
+https://i.imgur.com/sz9gTTr.png
  
-#EXTINF:-1 tvg-chno="121" tvg-id="571" tvg-name="Rede Vida" channel-id="RedeVida.br" group-title="General; Religious" tvg-logo="https://cdn.m3u.cl/logo/571_Rede_Vida.jpg" , Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="SBT Interior (720p)" channel-id="General" group-title="SBTInterior.br@SD" tvg-logo="SBTBrasil.br" , 123
+https://i.imgur.com/IkZfa4j.png
  
-#EXTINF:-1 tvg-chno="122" tvg-id="570" tvg-name="TV Aparecida" channel-id="TVAparecida.br" group-title="General; Religious" tvg-logo="https://cdn.m3u.cl/logo/570_TV_Aparecida.jpg" , TV Aparecida HD
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="SBT Nacional" channel-id="General" group-title="SBTNacional.br@SD" tvg-logo="SBTBrasil.br" , 124
+https://i.imgur.com/tc1ALuu.png
  
 
