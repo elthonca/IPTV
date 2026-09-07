@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Band" tvg-name="Band" channel-id="General" group-title="BandBrasil.br" tvg-logo="BandBrasil.br" , 120
-https://i.imgur.com/1r5T6Pw.png
+#EXTINF:-1 tvg-chno="120" tvg-id="BandBrasil.br" tvg-name="Band" channel-id="BandBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/1r5T6Pw.png" , Band
+http://45.190.28.50/BAND_HD/index.m3u8
  
-#EXTINF:-1 tvg-chno="22" tvg-id="TV Globo Rio de Janeiro" tvg-name="Globo" channel-id="General" group-title="TVGloboRiodeJaneiro.br@SD" tvg-logo="GloboRJ.br" , 121
-https://i.imgur.com/BatwJ2n.png
+#EXTINF:-1 tvg-chno="121" tvg-id="TVGloboRiodeJaneiro.br@SD" tvg-name="TV Globo Rio de Janeiro" channel-id="GloboRJ.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo
+http://45.190.28.50/GLOBO_HD/index.m3u8
  
-#EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="Record" channel-id="General" group-title="Record.br@SD" tvg-logo="RecordTVBrasil.br" , 122
-https://i.imgur.com/sz9gTTr.png
+#EXTINF:-1 tvg-chno="122" tvg-id="Record.br@SD" tvg-name="" channel-id="RecordTVBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png" , Record
+
  
-#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="SBT Interior (720p)" channel-id="General" group-title="SBTInterior.br@SD" tvg-logo="SBTBrasil.br" , 123
-https://i.imgur.com/IkZfa4j.png
+#EXTINF:-1 tvg-chno="123" tvg-id="SBTInterior.br@SD" tvg-name="" channel-id="SBTBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/IkZfa4j.png" , SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
  
-#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="SBT Nacional" channel-id="General" group-title="SBTNacional.br@SD" tvg-logo="SBTBrasil.br" , 124
-https://i.imgur.com/tc1ALuu.png
+#EXTINF:-1 tvg-chno="124" tvg-id="SBTNacional.br@SD" tvg-name="" channel-id="SBTBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/tc1ALuu.png" , SBT Nacional
+http://45.190.28.50/SBT_HD/index.m3u8
  
 
