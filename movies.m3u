@@ -42,7 +42,7 @@ http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="StarzCinema.us@East" tvg-name="Starz Cinema" channel-id="" group-title="Movies" tvg-logo="https://i.imgur.com/ghzzKoT.png" , Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
  
-#EXTINF:-1 tvg-chno="138" tvg-id="TNT" tvg-name="TNT" channel-id="TNT HD" group-title="Movies" tvg-logo="https://cdn.imgbin.com/22/16/20/imgbin-logo-tnt-brand-television-channel-turner-broadcasting-system-design-M2dXGp2NRPBzaDqCTcqQDhjVC.jpg" , TNT
+#EXTINF:-1 tvg-chno="138" tvg-id="TNT" tvg-name="TNT" channel-id="TNT HD" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/0/05/Screenshot_2023-02-28_3.21.59_PM.png/revision/latest/scale-to-width-down/250?cb=20230228232429" , TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
  
 #EXTINF:-1 tvg-chno="139" tvg-id="USBB3200030CG" tvg-name="Universal Movies" channel-id="USBB3200030CG" group-title="Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99993051/600x200.png?type=white_cropped" , Universal Movies
