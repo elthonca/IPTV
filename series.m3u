@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="178" tvg-id="AMC.us@EastHD" tvg-name="" channel-id="AMC.us@EastHD" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" , AMC
+http://23.239.31.26:8989/amc/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="179" tvg-id="AXN.br@SD" tvg-name="" channel-id="AXN.br" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" , AXN
+http://45.190.28.50/AXN_HD/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="180" tvg-id="PlutoTVInvestigacao.us@BR" tvg-name="" channel-id="5f32cf37c9ff2b00082adbc8" group-title="Series" tvg-logo="https://i.imgur.com/JlQq0YJ.png" , Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+ 
+#EXTINF:-1 tvg-chno="181" tvg-id="PlutoTVNovelas.us@BR" tvg-name="" channel-id="5f512365abe1f50007d3ff56" group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" , Pluto TV Novelas
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+ 
+#EXTINF:-1 tvg-chno="182" tvg-id="ShowtimeFamilyZone.us@East" tvg-name="" channel-id="" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" , Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="183" tvg-id="SonyChannel.br@SD" tvg-name="" channel-id="" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" , Sony Channel
+http://45.190.28.50/SONY_HD/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="184" tvg-id="TNTNovelas.us@Brazil" tvg-name="" channel-id="" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" , TNT Novelas Brazil
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="185" tvg-id="USANetwork.us@East" tvg-name="" channel-id="" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" , USA Network
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+ 
+
