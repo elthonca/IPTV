@@ -4,8 +4,8 @@
 http://45.190.28.50/BAND_HD/index.m3u8
  
 #EXTINF:-1 tvg-chno="121" tvg-id="TVGloboRiodeJaneiro.br@SD" tvg-name="TV Globo Rio de Janeiro" channel-id="GloboRJ.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo
-http://45.190.28.50/GLOBO_HD/index.m3u8
- 
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
 #EXTINF:-1 tvg-chno="122" tvg-id="Record.br@SD" tvg-name="Record" channel-id="RecordTVBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png" , Record
 http://45.190.28.50/RECORD/index.m3u8
  
