@@ -21,27 +21,12 @@ https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="FilmesSuspense.us@BR" tvg-name="Filmes Suspense" channel-id="FilmesSuspense.us@BR" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" , Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
  
-#EXTINF:-1 tvg-chno="131" tvg-id="FX.us@East" tvg-name="FX" channel-id="FX.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" , FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
- 
-#EXTINF:-1 tvg-chno="132" tvg-id="FXX.us@East" tvg-name="FXX" channel-id="FXX.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" , FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
- 
-#EXTINF:-1 tvg-chno="133" tvg-id="Megapix.br@SD" tvg-name="Megapix" channel-id="" group-title="Movies" tvg-logo="https://i.imgur.com/qTYv5jt.png" , Megapix
-http://177.52.24.163/MEGAPIX-HD/index.m3u8
- 
 #EXTINF:-1 tvg-chno="134" tvg-id="5cb0cae7a461406ffe3f5213" tvg-name="Paramount Movie Channel" channel-id="5cb0cae7a461406ffe3f5213-us" group-title="Movies" tvg-logo="https://i.imgur.com/sj5h9bl.png" , Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
  
 #EXTINF:-1 tvg-chno="135" tvg-id="5ff8c708653d080007361b14" tvg-name="Paramount+ Picks" channel-id="5ff8c708653d080007361b14-us" group-title="Movies" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" , Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
- 
-#EXTINF:-1 tvg-chno="136" tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies" channel-id="" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" , Sony Movies
-http://45.162.64.114/SONY_MOVIES/index.m3u8
- 
-#EXTINF:-1 tvg-chno="137" tvg-id="StarzCinema.us@East" tvg-name="Starz Cinema" channel-id="" group-title="Movies" tvg-logo="https://i.imgur.com/ghzzKoT.png" , Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
- 
+
 #EXTINF:-1 tvg-chno="138" tvg-id="TNT" tvg-name="TNT" channel-id="TNT HD" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/0/05/Screenshot_2023-02-28_3.21.59_PM.png/revision/latest/scale-to-width-down/250?cb=20230228232429" , TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
  
