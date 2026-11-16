@@ -1,18 +1,20 @@
 #EXTM3U
-#PLAYLIST:My IPTV Selection - CODECS.COM
 
-#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
-https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="198" tvg-id="" tvg-name="Combate" channel-id="" group-title="Sports" tvg-logo="https://onbr.net/logos/logos/COMBATE.png" , Combate
+https://livecanaisgo.xyz/p/t6xPWZn4GckX51MtdU4UDPRAYY_PJsE8K5jk_1gVTwATYPNpV1RFkuJCgBkdDRT28c5aE3ILSZhIOyU3l6CvvKlR6xC9LxR5mkBtZBlp5_RVY_hgeqlCaS4TzklPk-qhRVWb0irLpK0/v.m3u8
 
-#EXTINF:-1 tvg-id="DogWhisperer.us@UK" tvg-logo="https://i.imgur.com/tgWypVJ.png" group-title="Series",Dog Whisperer (1080p) [Geo-blocked]
-https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+#EXTINF:-1 tvg-chno="199" tvg-id="" tvg-name="HBO" channel-id="" group-title="Movies" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" , HBO
+https://livecanaisgo.xyz/p/VsL9cSoma8cK6PAxJkyFiKWgf5YaxjJtx0oMX5EFWa9uw_8jGTZ3zC4YayS9QZTKz6FntezzMH6sIR6CCmSaF1HVA8LL5t0xbOWfSyYLJn7xQYR-iUfFZndpiVN1neeicJnkNcM-m3g/v.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dog Whisperer with Cesar Millan (720p)
-https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="" tvg-name="Chapolin Colorado" channel-id="" group-title="Series" tvg-logo="https://i.postimg.cc/q7fywvhm/Chapolin-Colorado.png" , Chapolin Colorado
+https://livecanaisgo.xyz/p/y_99At-cKC8fOaFjgoyNyeXJeA_hH9IvTe-GC9iJYCkF9VGAt1SE8vT1l_BOvHmUWIPseQpcO_UHV8a72Jxbl7BUoEqnhc_ll8CH53x3I2RLyQzKN0KKyN7SRDlMaW05_x_V5gkQZjQqWQ/v.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked]
-https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-name="Os Simpsons" channel-id="" group-title="Cartoon" tvg-logo="Os Simpsons" , Os Simpsons
+https://livecanaisgo.xyz/p/08_aaC23TDaTVlDwdIElZNJyr_6DMijmMcMTIW-KL1apTKpm11LBBXp84ySZe37DnIhXh8RZMZsT33xEJIH2Xf8STPPCn_Pv61rd8EzCj3J7FTCdJcbZuDS9jRJ8ooZiD4uWqbYciLgUJQ/v.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dog Whisperer with Cesar Millan (1080p) [Geo-blocked]
-https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-id="" tvg-name="Chaves" channel-id="" group-title="Series" tvg-logo="https://i.postimg.cc/wBhgQ8W6/CHAVES-PNG.png" , Chaves
+https://livecanaisgo.xyz/p/XCSXOtI5NysMwoFLYxD8EzS3Swdbz6olgRQ2iWce9uQNpZWU_-o5YR98FxuwXUOUVR9yfkkQ69lOEK2V3zOiitabYriAtDJNWK19jnf30QGGKgjd4DdvCQUjfkcW2-cXhlyz3BgWBHUmiQ/v.m3u8
+
+#EXTINF:-1 tvg-chno="203" tvg-id="" tvg-name="Pesadelo na Cozinha" channel-id="" group-title="Entertainment" tvg-logo="https://i.postimg.cc/hv7bVnjW/Pesadelo-na-Cozinha-png.png" , Pesadelo na Cozinha
+https://livecanaisgo.xyz/p/EoIYbmaLyzp9eyyDPnWZ3n3UeAmjMbR0MV3j6mhSNuB1xfvBXTkM2hLKD1XjvUcpA1PVDaisGuv5vPagLqiGJSjEprJ9bnOxqQgz37TFJ0BE8EgUjdiLQpZDc41KnumsZYNEhzo84PZzOA/v.m3u8
 
