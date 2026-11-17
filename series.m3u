@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="178" tvg-id="PlutoTVNovelas.us@BR" tvg-name="Novelas" channel-id="5f512365abe1f50007d3ff56" group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" , Novelas
+#EXTINF:-1 tvg-chno="195" tvg-id="PlutoTVNovelas.us@BR" tvg-name="Pluto TV Novelas" channel-id="5f512365abe1f50007d3ff56" group-title="Series" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" , Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
- 
-#EXTINF:-1 tvg-chno="179" tvg-id="ShowtimeFamilyzone.us" tvg-name="Showtime Family Zone" channel-id="ShowtimeFamilyzone.us" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" , Showtime Family Zone
+
+#EXTINF:-1 tvg-chno="196" tvg-id="ShowtimeFamilyzone.us" tvg-name="US - SHOWTIME FAMILY" channel-id="ShowtimeFamilyzone.us" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" , Showtime Family Zone
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
