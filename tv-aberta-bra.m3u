@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="120" tvg-id="BandBrasil.br" tvg-name="Band" channel-id="BandBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/1r5T6Pw.png" , Band
+#EXTINF:-1 tvg-chno="116" tvg-id="BandBrasil.br" tvg-name="Band" channel-id="BandBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/1r5T6Pw.png" , Band
 http://45.190.28.50/BAND_HD/index.m3u8
  
-#EXTINF:-1 tvg-chno="121" tvg-id="TVGloboRiodeJaneiro.br@SD" tvg-name="TV Globo Rio de Janeiro" channel-id="GloboRJ.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo
+#EXTINF:-1 tvg-chno="117" tvg-id="TVGloboRiodeJaneiro.br@SD" tvg-name="BR - Globo RJ" channel-id="GloboRJ.br" group-title="General" tvg-logo="https://i.imgur.com/BatwJ2n.png" , Globo
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-
-#EXTINF:-1 tvg-chno="122" tvg-id="Record.br@SD" tvg-name="Record" channel-id="RecordTVBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png" , Record
+ 
+#EXTINF:-1 tvg-chno="118" tvg-id="Record.br@SD" tvg-name="BR - RecordTV Brasil" channel-id="RecordTVBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/sz9gTTr.png" , Record
 http://45.190.28.50/RECORD/index.m3u8
  
-#EXTINF:-1 tvg-chno="123" tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional" channel-id="SBTBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/tc1ALuu.png" , SBT
+#EXTINF:-1 tvg-chno="119" tvg-id="SBTNacional.br@SD" tvg-name="BR - SBT Brasil" channel-id="SBTBrasil.br" group-title="General" tvg-logo="https://i.imgur.com/tc1ALuu.png" , SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
